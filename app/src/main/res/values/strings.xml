@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MyRestaurant</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="move_activity">About</string>
+    <string name="description">Deskripsi</string>
+    <string name="price">Price</string>
+    <string name="rating">Rating</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Ayam Bakar</item>
+        <item>Ayam Geprek</item>
+        <item>Bakso</item>
+        <item>Lumpia</item>
+        <item>Mie Ayam</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Padang</item>
+        <item>Sate Ayam</item>
+        <item>Sate Lilit</item>
+        <item>Sate Kambing</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ayam bakar adalah masakan Indonesia dan Melayu, yang terdiri dari ayam yang sudah mengalami pembakaran. Potongan ayam biasanya dimasak sebagian dalam campuran bumbu menggunakan api kecil sebelum dipanggang, agar ayam menyerap bumbu. Campuran bumbunya bisa berbeda-beda antar daerah, tapi biasanya terdiri dari kombinasi bawang merah , bawang putih , cabai , ketumbar , air asam jawa, kemiri , kunyit , lengkuas dan garam . Di Jawa, ayam bakar biasanya terasa agak manis karena banyaknya kecap manis baik sebagai marinasi atau saus celup, sedangkan ayam bakar Padang ,Bali , Lombok dan sebagian besar Sumatera biasanya lebih pedas dan berwarna kemerahan karena banyaknya cabai, kunyit dan rempah-rempah lainnya, dan tidak adanya kecap manis.</item>
+        <item>Ayam Geprek adalah  ayam goreng tepung renyah Indonesia yang dihancurkan dan dicampur dengan sambal pedas dan pedas. Geprek adalah istilah Jawa untuk "ditumbuk" atau "dihancurkan", jadi ayam geprek berarti "ayam yang dihancurkan". Campuran bumbunya bisa berbeda-beda antar daerah, tapi biasanya terdiri dari kombinasi bawang merah, bawang putih, cabai, ketumbar, air asam jawa, kemiri, kunyit, lengkuas dan garam .</item>
+        <item>Bakso atau baso adalah  pasta daging yang terbuat dari surimi daging sapi. Mie bakso mengacu pada bakso yang disajikan dengan mie kuning dan bihun, sedangkan bakso kuah mengacu pada sup bakso yang disajikan tanpa mie. Bakso biasanya disajikan dalam semangkuk kaldu sapi , dengan mie kuning , bihun , sayuran asin, tahu , telur (dibungkus dengan bakso), brokoli cina , tauge , siomay atau pangsit daging kukus, dan pangsit garing , ditaburi dengan bawang goreng dan seledri . Irisan bakso sering digunakan dan dicampurkan sebagai pelengkap dalam resep mie goreng , nasi goreng , atau cap cai </item>
+        <item>Lumpia adalah berbagai jenis lumpia yang biasa ditemukan di Filipina dan Indonesia . Lumpia terbuat darikulit kue tipis seperti kertas atau krep yang disebut "pembungkus lumpia" yang membungkus isian gurih atau manis. Ini sering disajikan sebagai hidangan pembuka atau makanan ringan , dan mungkin disajikan dengan digoreng atau segar (tidak digoreng). Lumpia adalah adaptasi Filipina dan Indonesia dari Popiah Fujian dan Teochew , yang diciptakan pada abad ke-17 di bekas era kolonial Spanyol. </item>
+        <item>Mie Ayam adalah masakan umum Indonesia dari mie gandum kuning berbumbu dengan potongan daging ayam ( ayam ). Ini berasal dari teknik kuliner yang digunakan dalam masakan Cina. Mi gandum kuning direbus dalam air sampai teksturnya al dente dan dicampur dalam mangkuk berisi minyak goreng , kecap, dan bawang putih . Minyak melapisi mie untuk memisahkan benang. Minyaknya bisa berupa lemak ayam , lemak babi , atau minyak sayur . Daging ayam dipotong dadu dan dimasak dengan kecap dan bumbu lainnya termasuk bawang putih. Daging ayamnya juga bisa dimasak dengan jamur .</item>
+        <item>Nasi Goreng adalah hidangan nasi goreng Asia Tenggara, biasanya dimasak dengan potongan daging dan sayuran. Nasi goreng dibedakan dari olahan nasi goreng Asia lainnya dengan aroma berasapnya yang khas, dan rasa yang dikaramelisasi namun gurih. Nasi goreng telah lama dianggap sebagai makanan pokok masakan Indonesia . Pada tahun 2018, secara resmi diakui oleh pemerintah Indonesia sebagai salah satu dari lima hidangan nasional negara. Makanan yang ada di mana-mana di seluruh Indonesia, terutama untuk sarapan pagi, dapat dinikmati dalam versi sederhana dari piring kaleng di warung pinggir jalan, dimakan di porselen di restoran, atau dikumpulkan dari meja prasmanan di pesta makan malam di kota-kota perkotaan</item>
+        <item>Nasi Padang adalah hidangan nasi kukus Minangkabau yang disajikan dengan berbagai pilihan masakan yang dimasak sebelumnya yang berasal dari Sumatera Barat , Indonesia . Namanya diambil dari kota Padang , ibu kota provinsi Sumatera Barat. Perjamuan miniatur daging, ikan, sayuran, dan sambal pedas yang dimakan dengan nasi putih.</item>
+        <item>Sate ayam adalah makanan khas Indonesia. Sate Ayam dibuat dari daging ayam. Pada umumnya sate ayam dimasak dengan cara dipanggang dengan menggunakan arang dan disajikan dengan pilihan bumbu kacang atau bumbu kecap. Sate ini biasanya disajikan bersama dengan lontong atau nasi.</item>
+        <item>Sate lilit adalah salah satu makanan khas Bali. Sate lilit awalnya adalah makanan khas Klungkung. Namun saat ini sate lilit bisa ditemukan di seluruh wilayah di Bali. Sate lilit berasal dari kata lilit yang artinya dibelit.</item>
+        <item>Sate kambing adalah sejenis makanan sate terbuat dari daging kambing. daging kambing tersebut disate (ditusuk dengan bambu yang dibentuk seperti lidi yang agak besar) dan dibumbui dengan rempah-rempah dan bumbu dapur, kemudian dibakar. Penyajiannya disajikan bersama lalapan kubis, tomat, dan bawang merah yang diiris tipis kemudian diberi kecap dan ditambahkan taburan merica.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ayam_bakar</item>
+        <item>@drawable/ayam_geprek</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/lumpia</item>
+        <item>@drawable/mie_ayam</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_padang</item>
+        <item>@drawable/sate_ayam</item>
+        <item>@drawable/sate_bali</item>
+        <item>@drawable/sate_kambing</item>
+    </integer-array>
+    <string-array name="data_price">
+        <item>Rp. 30.000</item>
+        <item>Rp. 25.000</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 25.000 </item>
+        <item>Rp. 30.000</item>
+        <item>Rp. 50.000</item>
+        <item>Rp. 40.000</item>
+        <item>Rp. 40.000</item>
+        <item>Rp. 30.000</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>7/10</item>
+        <item>8/10</item>
+        <item>8/10</item>
+        <item>10/10</item>
+        <item>7/10</item>
+        <item>8/10</item>
+        <item>7/10</item>
+        <item>7/10</item>
+        <item>7/10</item>
+        <item>9/10</item>
+    </string-array>
+</resources>
